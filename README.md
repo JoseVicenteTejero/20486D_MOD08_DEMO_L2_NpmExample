@@ -7,4 +7,4 @@ How to Use npm to Add a Library
 
 
 PROBLEMAS
-Daba fallo en ejecución pero le dí botón derecho a package.json y le di a restaurar paquetes. Con esto se resolvió.
+No.
